@@ -14,7 +14,8 @@ BRUTE FORCE INSTA HACK
 apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y
-pkg update && pkg upgrade
+pkg update && pkg upgrade -y
+pkg install python
 pip install rich
 pip install cython
 pip install pysocks
@@ -25,7 +26,6 @@ pip install pynacl
 pip install pyotp
 pip install pynacl
 
-pkg install python
 git clone https://github.com/VinXD-SLEBEW/crack_instagram
 cd crack_instagram
 python Brutex_enc.py
