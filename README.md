@@ -4,7 +4,7 @@ SEBUAH TOLS SCRIPT PYTHON 🐍
 
 BRUTE FORCE INSTA HACK
 
-![Profile Picture](instahack.jpg)
+![Profile Picture](robz.jpg)
 
 ```bash
 pip install rich
@@ -16,6 +16,8 @@ pip install pycryptodomex
 pip install pynacl
 pip install pyotp
 pip install pynacl
+
+# Jangan lupa install python
 pkg install python
 git clone https://github.com/VinXD-SLEBEW/crack_instagram
 cd crack_instagram
