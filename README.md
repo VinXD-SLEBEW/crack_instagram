@@ -4,6 +4,10 @@ SEBUAH TOLS SCRIPT PYTHON 🐍
 
 BRUTE FORCE INSTA HACK
 
+# NOTE DARI ADMIN 
+# CUKUP TERIMAKASIH AJA
+# KALAU ADA APA APA BUKAN TANGGUNG JAWAB ADMIN
+
 ![Profile Picture](robz.jpg)
 
 ```bash
@@ -17,7 +21,6 @@ pip install pynacl
 pip install pyotp
 pip install pynacl
 
-# Jangan lupa install python
 pkg install python
 git clone https://github.com/VinXD-SLEBEW/crack_instagram
 cd crack_instagram
