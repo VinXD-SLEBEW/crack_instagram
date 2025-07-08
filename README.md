@@ -11,6 +11,10 @@ BRUTE FORCE INSTA HACK
 ![Profile Picture](robz.jpg)
 
 ```bash
+apt update -y && apt upgrade -y
+apt install git -y
+apt install python -y
+pkg update && pkg upgrade
 pip install rich
 pip install cython
 pip install pysocks
